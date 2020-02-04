@@ -11,8 +11,10 @@ end
 fido = Dog.new
 fido.name = "fido"
 
-def bark(this_dogs_name)
- fido.name puts "woof!"
+fido.name
+
+def fido.name
+  puts "woof!"
 end
 
 
