@@ -13,7 +13,8 @@ fido.name = "fido"
 
 fido.name
 
-def bark(this_dogs_name)
+class Dog
+def bark
   puts "woof!"
 end
 
